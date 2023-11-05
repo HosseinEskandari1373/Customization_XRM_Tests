@@ -1,0 +1,12 @@
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\bin\Debug\DotnetWorkflows_Customization.dll
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\bin\Debug\DotnetWorkflows_Customization.pdb
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\bin\Debug\Microsoft.Activities.Extensions.dll
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\obj\Debug\DotnetWorkflows_Customization.csproj.CoreCompileInputs.cache
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\obj\Debug\DotnetWorkflows_Customization.csproj.CopyComplete
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\obj\Debug\DotnetWorkflows_Customization.dll
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\obj\Debug\DotnetWorkflows_Customization.pdb
+C:\Users\eskandari\source\repos\Projects\Workflows\DotnetWorkflow.Customization\DotnetWorkflows_Customization\DotnetWorkflows_Customization\obj\Debug\DotnetWorkflows_Customization.csproj.AssemblyReference.cache

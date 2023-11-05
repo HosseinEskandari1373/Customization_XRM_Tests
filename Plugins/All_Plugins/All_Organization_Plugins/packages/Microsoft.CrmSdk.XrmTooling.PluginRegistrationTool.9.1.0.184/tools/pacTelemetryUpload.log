@@ -1,0 +1,192 @@
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 20.9.155.147:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\9340-638228389870620072.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.64.132.130:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\9340-638228389870620072.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.64.132.130:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\9340-638228389870620072.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 20.9.155.147:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\9340-638228389870620072.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.64.132.130:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\9340-638228389870620072.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.64.132.130:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\9340-638228389870620072.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.64.132.130:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\9340-638228389870620072.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 20.9.155.147:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\11980-638237913215744814.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.64.132.130:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\11980-638237913215744814.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.64.132.130:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\11980-638237913215744814.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 20.9.155.147:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\11980-638237913215744814.sending
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Error: 2 : BatchedSender.SendTransmission Caught unhandled exception while trying to send a transmission.
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 20.9.155.147:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.Transmitter.<SendAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.PowerPlatform.Tooling.BatchedTelemetry.BatchedUpload.BatchedSender.<SendTransmission>d__16.MoveNext()
+Microsoft.PowerPlatform.Tooling.BatchedTelemetry Warning: 4 : BatchedSender.SendTransmission returned false after processing transmission file: C:\Users\eskandari\AppData\Local\Microsoft\PowerAppsCli\telemetry-cache\PluginRegistration\22312-638238185197624941.sending

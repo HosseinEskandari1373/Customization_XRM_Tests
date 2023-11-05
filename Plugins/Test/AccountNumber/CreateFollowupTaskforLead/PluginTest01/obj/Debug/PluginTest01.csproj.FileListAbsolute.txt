@@ -1,0 +1,10 @@
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\bin\Debug\PluginTest01.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\bin\Debug\PluginTest01.pdb
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\obj\Debug\PluginTest01.csproj.AssemblyReference.cache
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\obj\Debug\PluginTest01.csproj.CoreCompileInputs.cache
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\obj\Debug\PluginTest01.csproj.CopyComplete
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\obj\Debug\PluginTest01.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\PluginTest01\obj\Debug\PluginTest01.pdb

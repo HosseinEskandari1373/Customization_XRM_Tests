@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Update_All_Childs", "Update_All_Childs\Update_All_Childs.csproj", "{33C9AC1C-19B8-4D31-8477-2469502BE901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relation_Many_Many", "Relation_Many_Many\Relation_Many_Many.csproj", "{B5E5D629-DC78-494B-AA84-3E30064368EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C9AC1C-19B8-4D31-8477-2469502BE901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C9AC1C-19B8-4D31-8477-2469502BE901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C9AC1C-19B8-4D31-8477-2469502BE901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C9AC1C-19B8-4D31-8477-2469502BE901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E5D629-DC78-494B-AA84-3E30064368EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E5D629-DC78-494B-AA84-3E30064368EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E5D629-DC78-494B-AA84-3E30064368EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E5D629-DC78-494B-AA84-3E30064368EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6677C98F-8819-46E2-9D12-83BE364C5D86}
+	EndGlobalSection
+EndGlobal

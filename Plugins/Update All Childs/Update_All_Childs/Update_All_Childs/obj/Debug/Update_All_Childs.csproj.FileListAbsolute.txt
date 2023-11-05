@@ -1,0 +1,15 @@
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\Update_All_Childs.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\Update_All_Childs.pdb
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\obj\Debug\Update_All_Childs.csproj.AssemblyReference.cache
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\obj\Debug\Update_All_Childs.csproj.CoreCompileInputs.cache
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\obj\Debug\Update_All_Childs.csproj.CopyComplete
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\obj\Debug\Update_All_Childs.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\obj\Debug\Update_All_Childs.pdb
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eskandari\source\repos\Projects\Plugins\Update All Childs\Update_All_Childs\Update_All_Childs\bin\Debug\System.Threading.Tasks.Extensions.xml

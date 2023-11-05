@@ -1,0 +1,10 @@
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\bin\Debug\JahanPars_Plugin.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\bin\Debug\JahanPars_Plugin.pdb
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\obj\Debug\JahanPars_Plugin.csproj.AssemblyReference.cache
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\obj\Debug\JahanPars_Plugin.csproj.CoreCompileInputs.cache
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\obj\Debug\JahanPars_Plugin.csproj.CopyComplete
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\obj\Debug\JahanPars_Plugin.dll
+C:\Users\eskandari\source\repos\Projects\Plugins\Plugins\02\CreateFollowupTaskforLead\JahanPars_Plugin\obj\Debug\JahanPars_Plugin.pdb
